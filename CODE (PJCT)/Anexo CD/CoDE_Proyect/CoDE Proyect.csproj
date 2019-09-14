@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{53EF8A90-11FA-49E0-9A0A-0A5A868D761E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CoDE_Proyect</RootNamespace>
+    <AssemblyName>CoDE Proyect</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\jorge\Desktop\INST\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>2.0.4.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>EngreneIconICO.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>3915A26573748A7DF3B2B37416821799C8C2FD8C</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>CoDE Proyect_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Imaging">
+      <HintPath>..\..\Archivos\Librerías y archivos DLL\AForge video processing\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Math">
+      <HintPath>..\..\..\Archivos\Librerías y archivos DLL\AForge video processing\Descompress\Release\AForge.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video">
+      <HintPath>..\..\Archivos\Librerías y archivos DLL\AForge video processing\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>..\..\Archivos\Librerías y archivos DLL\AForge video processing\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPDevNET, Version=1.4.0.1, Culture=neutral, PublicKeyToken=696774c42ee28c57, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Archivos\Librerías y archivos DLL\Lector\DPFPDevNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPShrNET, Version=1.4.0.1, Culture=neutral, PublicKeyToken=d902fe275a8d6cf2, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Archivos\Librerías y archivos DLL\Lector\DPFPShrNET.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Neurotec.Biometrics.Nffv">
+      <HintPath>..\..\Archivos\Librerías y archivos DLL\Lector2\Neurotec.Biometrics.Nffv.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CoDE\Admin\AdminConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Admin\AdminConsulta.Designer.cs">
+      <DependentUpon>AdminConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Admin\Lector\CargaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Admin\Lector\CargaForm.designer.cs">
+      <DependentUpon>CargaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Admin\Lector\ElegirLectorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Admin\Lector\ElegirLectorForm.Designer.cs">
+      <DependentUpon>ElegirLectorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Admin\Lector\EscaneoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Admin\Lector\EscaneoForm.Designer.cs">
+      <DependentUpon>EscaneoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Admin\Lector\Program.cs" />
+    <Compile Include="CoDE\Admin\Lector\RegistroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Admin\Lector\RegistroForm.Designer.cs">
+      <DependentUpon>RegistroForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Admin\Lector\TempBDD.cs" />
+    <Compile Include="CoDE\Admin\AdminAgregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Admin\AdminAgregar.Designer.cs">
+      <DependentUpon>AdminAgregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosActualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosActualizar.Designer.cs">
+      <DependentUpon>AlumnosActualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosConsultarPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosConsultarPreview.Designer.cs">
+      <DependentUpon>AlumnosConsultarPreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosConsultarHuella.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosConsultarHuella.Designer.cs">
+      <DependentUpon>AlumnosConsultarHuella.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Consultas\VerificarDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Consultas\VerificarDatos.Designer.cs">
+      <DependentUpon>VerificarDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosActualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosActualizar.Designer.cs">
+      <DependentUpon>EmpleadosActualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosAgregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosAgregar.Designer.cs">
+      <DependentUpon>EmpleadosAgregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosAgregarVideoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosAgregarVideoForm.Designer.cs">
+      <DependentUpon>EmpleadosAgregarVideoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosConsultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosConsultar.Designer.cs">
+      <DependentUpon>EmpleadosConsultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosConsultarHuella.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosConsultarHuella.Designer.cs">
+      <DependentUpon>EmpleadosConsultarHuella.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosConsultarPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosConsultarPreview.Designer.cs">
+      <DependentUpon>EmpleadosConsultarPreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Empleados\EmpleadosForm.Designer.cs">
+      <DependentUpon>EmpleadosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosAgregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosAgregar.Designer.cs">
+      <DependentUpon>AlumnosAgregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosAgregarVideoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosAgregarVideoForm.Designer.cs">
+      <DependentUpon>AlumnosAgregarVideoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosConsultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosConsultar.Designer.cs">
+      <DependentUpon>AlumnosConsultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Alumnos\AlumnosForm.Designer.cs">
+      <DependentUpon>AlumnosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Opciones\CambiarPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Opciones\CambiarPass.Designer.cs">
+      <DependentUpon>CambiarPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Opciones\ConexionConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Opciones\ConexionConfig.Designer.cs">
+      <DependentUpon>ConexionConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Opciones\ConfigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Opciones\ConfigForm.Designer.cs">
+      <DependentUpon>ConfigForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Opciones\VerificacionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Opciones\VerificacionForm.Designer.cs">
+      <DependentUpon>VerificacionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Consultas\ConsultasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Consultas\ConsultasForm.Designer.cs">
+      <DependentUpon>ConsultasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Opciones\2AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Opciones\2AboutForm.Designer.cs">
+      <DependentUpon>2AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Opciones\AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Opciones\AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Admin\Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Admin\Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Opciones\InformarError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Opciones\InformarError.Designer.cs">
+      <DependentUpon>InformarError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Admin\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Admin\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Opciones\Contacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Opciones\Contacto.Designer.cs">
+      <DependentUpon>Contacto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Opciones\Novedades\Novedades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Opciones\Novedades\Novedades.Designer.cs">
+      <DependentUpon>Novedades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Opciones\Novedades\Proximo\Proximo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Opciones\Novedades\Proximo\Proximo.Designer.cs">
+      <DependentUpon>Proximo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Opciones\OpcionesContra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Opciones\OpcionesContra.Designer.cs">
+      <DependentUpon>OpcionesContra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoDE\Admin\Menu_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoDE\Admin\Menu_Principal.Designer.cs">
+      <DependentUpon>Menu_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUtil.cs" />
+    <Compile Include="Procesos.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CODE.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>CODE.settings</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CoDE\Admin\AdminConsulta.resx">
+      <DependentUpon>AdminConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Admin\Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Admin\Lector\CargaForm.resx">
+      <DependentUpon>CargaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Admin\Lector\ElegirLectorForm.resx">
+      <DependentUpon>ElegirLectorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Admin\Lector\EscaneoForm.resx">
+      <DependentUpon>EscaneoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Admin\Lector\RegistroForm.resx">
+      <DependentUpon>RegistroForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Admin\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Admin\AdminAgregar.resx">
+      <DependentUpon>AdminAgregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Alumnos\AlumnosActualizar.resx">
+      <DependentUpon>AlumnosActualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Alumnos\AlumnosConsultarPreview.resx">
+      <DependentUpon>AlumnosConsultarPreview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Alumnos\AlumnosConsultarHuella.resx">
+      <DependentUpon>AlumnosConsultarHuella.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Consultas\VerificarDatos.resx">
+      <DependentUpon>VerificarDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Empleados\EmpleadosActualizar.resx">
+      <DependentUpon>EmpleadosActualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Empleados\EmpleadosAgregar.resx">
+      <DependentUpon>EmpleadosAgregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Empleados\EmpleadosAgregarVideoForm.resx">
+      <DependentUpon>EmpleadosAgregarVideoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Empleados\EmpleadosConsultar.resx">
+      <DependentUpon>EmpleadosConsultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Empleados\EmpleadosConsultarHuella.resx">
+      <DependentUpon>EmpleadosConsultarHuella.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Empleados\EmpleadosConsultarPreview.resx">
+      <DependentUpon>EmpleadosConsultarPreview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Empleados\EmpleadosForm.resx">
+      <DependentUpon>EmpleadosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Alumnos\AlumnosAgregar.resx">
+      <DependentUpon>AlumnosAgregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Alumnos\AlumnosAgregarVideoForm.resx">
+      <DependentUpon>AlumnosAgregarVideoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Alumnos\AlumnosConsultar.resx">
+      <DependentUpon>AlumnosConsultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Alumnos\AlumnosForm.resx">
+      <DependentUpon>AlumnosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Opciones\CambiarPass.resx">
+      <DependentUpon>CambiarPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Opciones\ConexionConfig.resx">
+      <DependentUpon>ConexionConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Opciones\ConfigForm.resx">
+      <DependentUpon>ConfigForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Opciones\VerificacionForm.resx">
+      <DependentUpon>VerificacionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Consultas\ConsultasForm.resx">
+      <DependentUpon>ConsultasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Opciones\2AboutForm.resx">
+      <DependentUpon>2AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Opciones\AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Opciones\Contacto.resx">
+      <DependentUpon>Contacto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Opciones\InformarError.resx">
+      <DependentUpon>InformarError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Opciones\Novedades\Novedades.resx">
+      <DependentUpon>Novedades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Opciones\Novedades\Proximo\Proximo.resx">
+      <DependentUpon>Proximo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Opciones\OpcionesContra.resx">
+      <DependentUpon>OpcionesContra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoDE\Admin\Menu_Principal.resx">
+      <DependentUpon>Menu_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="CODE.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>CODE.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\DataSources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="EngreneIconICO.ico" />
+    <None Include="Resources\refresh %281%29.png" />
+    <None Include="Resources\Refresh.png" />
+    <None Include="Resources\Recargar1.png" />
+    <None Include="Resources\Recargar.png" />
+    <None Include="Resources\TomarFoto.png" />
+    <None Include="Resources\Sonido.png" />
+    <None Include="Resources\Reload.png" />
+    <None Include="Resources\Logout.png" />
+    <None Include="Resources\LogoSimple1.jpg" />
+    <None Include="Resources\LogoSimple.jpg" />
+    <None Include="Resources\LogoCODE.jpg" />
+    <None Include="Resources\Logo2.jpg" />
+    <None Include="Resources\Logo2 - copiaSmall.jpg" />
+    <None Include="Resources\Login.png" />
+    <None Include="Resources\IconoQuestion1.png" />
+    <None Include="Resources\IconoQuestion.png" />
+    <None Include="Resources\IconoInfo1.png" />
+    <None Include="Resources\IconoInfo.png" />
+    <None Include="Resources\HomeBlack.png" />
+    <None Include="Resources\Home_1_.gif" />
+    <None Include="Resources\EngreneIconPNG.png" />
+    <None Include="Resources\Engrane.png" />
+    <None Include="Resources\EmpleadoBlack.png" />
+    <None Include="Resources\Empleado.gif" />
+    <None Include="Resources\Editar.png" />
+    <None Include="Resources\CopiarPortapapeles.png" />
+    <None Include="Resources\ControlDeEstudiantes.jpg" />
+    <None Include="Resources\Contacto.gif" />
+    <None Include="Resources\CONSULTA_BLACK.png" />
+    <None Include="Resources\Consulta.gif" />
+    <None Include="Resources\AñadirHuella.png" />
+    <None Include="Resources\AñadirEmpleado.png" />
+    <None Include="Resources\AñadirAlumno.png" />
+    <None Include="Resources\AlumnoBlack.png" />
+    <None Include="Resources\Alumno.gif" />
+    <None Include="Resources\AgregarGIF.gif" />
+    <None Include="Resources\Admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="DPFPDevNET">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DPFPShrNET">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
