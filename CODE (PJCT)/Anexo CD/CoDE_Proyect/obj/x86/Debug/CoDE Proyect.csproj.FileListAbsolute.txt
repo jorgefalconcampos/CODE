@@ -1,0 +1,311 @@
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe.config
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.pdb
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\bin\x86\Debug\AForge.Imaging.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\bin\x86\Debug\AForge.Video.DirectShow.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\bin\x86\Debug\AForge.Video.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\bin\x86\Debug\DPFPDevNET.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\bin\x86\Debug\DPFPShrNET.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\bin\x86\Debug\MetroFramework.Design.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\bin\x86\Debug\MetroFramework.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\bin\x86\Debug\MetroFramework.Fonts.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\bin\x86\Debug\Neurotec.Biometrics.Nffv.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Admin.AdminConsulta.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Inicio.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\Neurotec.Gui.CargaForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\Escaneo.ElegirLectorForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\Escaneo.EscaneoForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\Escaneo.RegistroForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Login.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosActualizar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultarPreview.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultarHuella.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosAgregar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosAgregarVideoForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultarHuella.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultarPreview.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregarVideoForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.VerificacionForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Consultas.ConsultasForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones._2AboutForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.AboutForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Contacto.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.InformarError.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Novedades.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Prox1.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.OpcionesContra.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Menu_Principal.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.formPruebas.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Properties.Resources.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.csproj.GenerateResource.Cache
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.exe
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.pdb
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Admin.AdminAgregar.resources
+C:\Users\jorge\Documents\Proyecto OLD\CoDE_Proyect 07-08\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe.config
+C:\Users\jorge\Documents\Proyecto OLD\CoDE_Proyect 07-08\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.exe
+C:\Users\jorge\Documents\Proyecto OLD\CoDE_Proyect 07-08\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.pdb
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.csprojResolveAssemblyReference.cache
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe.config
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.pdb
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\MetroFramework.Design.dll
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\MetroFramework.dll
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\MetroFramework.Fonts.dll
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Admin.AdminConsulta.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Inicio.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\Neurotec.Gui.CargaForm.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\Escaneo.ElegirLectorForm.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\Escaneo.EscaneoForm.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\Escaneo.RegistroForm.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Login.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Admin.AdminAgregar.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosActualizar.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultarPreview.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultarHuella.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosAgregar.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosAgregarVideoForm.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultar.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultarHuella.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultarPreview.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosForm.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregar.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregarVideoForm.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultar.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosForm.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.CambiarPass.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.ConfigForm.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.VerificacionForm.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Consultas.ConsultasForm.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones._2AboutForm.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.AboutForm.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Contacto.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.InformarError.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Novedades.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Prox1.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.OpcionesContra.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Menu_Principal.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.formPruebas.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Properties.Resources.resources
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.csproj.GenerateResource.Cache
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.exe
+F:\CoDE Proyect\CoDe AyudasAYUDAAAAAS+\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.pdb
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe.config
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.pdb
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\MetroFramework.Design.dll
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\MetroFramework.dll
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\MetroFramework.Fonts.dll
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Admin.AdminConsulta.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Inicio.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\Neurotec.Gui.CargaForm.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\Escaneo.ElegirLectorForm.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\Escaneo.EscaneoForm.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\Escaneo.RegistroForm.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Login.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Admin.AdminAgregar.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosActualizar.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultarPreview.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultarHuella.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Consultas.VerificarDatos.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosAgregar.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosAgregarVideoForm.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultar.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultarHuella.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultarPreview.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosForm.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregar.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregarVideoForm.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultar.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosForm.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.CambiarPass.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.ConfigForm.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.VerificacionForm.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Consultas.ConsultasForm.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones._2AboutForm.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.AboutForm.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Contacto.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.InformarError.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Novedades.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Prox1.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.OpcionesContra.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Menu_Principal.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.formPruebas.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Properties.Resources.resources
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.csproj.GenerateResource.Cache
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.exe
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.pdb
+C:\Users\jorge\Desktop\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosActualizar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe.config
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.pdb
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\AForge.Math.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\MetroFramework.Design.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\MetroFramework.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\MetroFramework.Fonts.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\AForge.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\AForge.Math.xml
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\bin\x86\Debug\AForge.xml
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.csprojResolveAssemblyReference.cache
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Admin.AdminConsulta.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Inicio.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\Neurotec.Gui.CargaForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\Escaneo.ElegirLectorForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\Escaneo.EscaneoForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\Escaneo.RegistroForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Login.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Admin.AdminAgregar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosActualizar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultarPreview.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultarHuella.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Consultas.VerificarDatos.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosActualizar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosAgregar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosAgregarVideoForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultarHuella.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultarPreview.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregarVideoForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.CambiarPass.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.ConfigForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.VerificacionForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Consultas.ConsultasForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones._2AboutForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.AboutForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Contacto.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.InformarError.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Novedades.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Prox1.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.OpcionesContra.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Menu_Principal.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.formPruebas.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Properties.Resources.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.csproj.GenerateResource.Cache
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.exe
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.pdb
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe.config
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\CODE.Designer.cs
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\App.config
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\CODE.settings
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe.manifest
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.application
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.pdb
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\AForge.Math.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\MetroFramework.Design.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\MetroFramework.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\MetroFramework.Fonts.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\AForge.dll
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\AForge.Math.xml
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\bin\x86\Debug\AForge.xml
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Admin.AdminConsulta.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Inicio.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\Neurotec.Gui.CargaForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\Escaneo.ElegirLectorForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\Escaneo.EscaneoForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\Escaneo.RegistroForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Login.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Admin.AdminAgregar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosActualizar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultarPreview.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultarHuella.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Consultas.VerificarDatos.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosActualizar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosAgregar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosAgregarVideoForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultarHuella.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultarPreview.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregarVideoForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.CambiarPass.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.ConexionConfig.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.ConfigForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.VerificacionForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Consultas.ConsultasForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones._2AboutForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.AboutForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Contacto.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.InformarError.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Novedades.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Prox1.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.OpcionesContra.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Menu_Principal.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Properties.Resources.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.csproj.GenerateResource.Cache
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.exe.manifest
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.application
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.exe
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.pdb
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect PRUEBA{ - copia\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe.config
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.exe
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.pdb
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\CODE.Designer.cs
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\App.config
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\CODE.settings
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe.manifest
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.application
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.pdb
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\MetroFramework.Design.dll
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\MetroFramework.dll
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\MetroFramework.Fonts.dll
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\AForge.dll
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\AForge.Math.xml
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\bin\x86\Debug\AForge.xml
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Admin.AdminConsulta.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Inicio.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\Neurotec.Gui.CargaForm.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\Escaneo.ElegirLectorForm.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\Escaneo.EscaneoForm.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\Escaneo.RegistroForm.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Login.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Admin.AdminAgregar.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosActualizar.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultarPreview.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultarHuella.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Consultas.VerificarDatos.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosActualizar.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosAgregar.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosAgregarVideoForm.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultar.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultarHuella.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultarPreview.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosForm.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregar.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregarVideoForm.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultar.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosForm.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.CambiarPass.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.ConexionConfig.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.ConfigForm.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.VerificacionForm.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Consultas.ConsultasForm.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones._2AboutForm.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.AboutForm.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Contacto.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.InformarError.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Novedades.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Prox1.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.CoDE.Opciones.OpcionesContra.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Menu_Principal.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE_Proyect.Properties.Resources.resources
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.csproj.GenerateResource.Cache
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.exe.manifest
+C:\Users\jorge\Documents\CODE Proyect\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.application
+D:\Archivos PC Jorge\Documentos de Office\CODE FINAL\CODE DEMO\CD\Manuales\Anexo\CODE Proyect (proyecto VS)\CoDE_Proyect\bin\x86\Debug\CoDE Proyect.exe.config
+D:\Archivos PC Jorge\Documentos de Office\CODE FINAL\CODE DEMO\CD\Manuales\Anexo\CODE Proyect (proyecto VS)\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.exe
+D:\Archivos PC Jorge\Documentos de Office\CODE FINAL\CODE DEMO\CD\Manuales\Anexo\CODE Proyect (proyecto VS)\CoDE_Proyect\obj\x86\Debug\CoDE Proyect.pdb
