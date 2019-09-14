@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RegisUsuario id="0" name="Registro1" />
+  <RegisUsuario id="1" name="Registro2" />
+  <RegisUsuario id="2" name="Registro3" />
+  <RegisUsuario id="3" name="Registro4" />
+  <RegisUsuario id="4" name="Registro5" />
+  <RegisUsuario id="5" name="Registro6" />
+</UserDatabase>
