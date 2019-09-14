@@ -1,0 +1,71 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CoDE_Proyect" GeneratedClassName="CODE">
+  <Profiles />
+  <Settings>
+    <Setting Name="Admin_User" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Administrador</Value>
+    </Setting>
+    <Setting Name="Admin_Pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sesi0nDeAdmin!*</Value>
+    </Setting>
+    <Setting Name="Verif_Escan" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Email_User" Type="System.String" Scope="User">
+      <Value Profile="(Default)">code.proyect.contacto@gmail.com</Value>
+    </Setting>
+    <Setting Name="Email_Pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Contr0lDeEstudiantes!*</Value>
+    </Setting>
+    <Setting Name="Email_Host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.gmail.com</Value>
+    </Setting>
+    <Setting Name="Email_Puerto" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="Turnos" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Matutino&lt;/string&gt;
+  &lt;string&gt;Vespertino&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Carreras" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Carrera1&lt;/string&gt;
+  &lt;string&gt;Carrera2&lt;/string&gt;
+  &lt;string&gt;Carrera3&lt;/string&gt;
+  &lt;string&gt;Carrera4&lt;/string&gt;
+  &lt;string&gt;Carrera5&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Grupos" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Grupo1&lt;/string&gt;
+  &lt;string&gt;Grupo2&lt;/string&gt;
+  &lt;string&gt;Grupo3&lt;/string&gt;
+  &lt;string&gt;Grupo4&lt;/string&gt;
+  &lt;string&gt;Grupo5&lt;/string&gt;
+  &lt;string&gt;Grupo6&lt;/string&gt;
+  &lt;string&gt;Grupo7&lt;/string&gt;
+  &lt;string&gt;Grupo8&lt;/string&gt;
+  &lt;string&gt;Grupo9&lt;/string&gt;
+  &lt;string&gt;Grupo10&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Email_Body" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Buen día, este mensaje fue envíado por el centro de estudios donde estudia su hij@.
+El propósito de este email es que verifique los datos y la identidad para que esta información sea usada mientras su hij@ es alumn@ de este centro de estudios.
+A continuación se muestra la información junto con una foto adjunta.</Value>
+    </Setting>
+    <Setting Name="ServidoresConn" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;.&lt;/string&gt;
+  &lt;string&gt;(local)&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
