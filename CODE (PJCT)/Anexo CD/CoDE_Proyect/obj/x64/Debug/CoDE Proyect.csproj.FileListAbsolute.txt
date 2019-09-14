@@ -1,0 +1,31 @@
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\bin\x64\Debug\CoDE Proyect.exe.config
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Admin.AdminConsulta.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.Inicio.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\Neurotec.Gui.CargaForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Admin.Lector.ElegirLectorForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Admin.Lector.EscaneoForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Admin.Lector.RegistroForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.Login.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Admin.NuevoAdmin.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Alumnos.CaptureFormAlumnos.CaptureFormA.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Opciones.Configuracion.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosAgregarVideoForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosConsultar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Alumnos.AlumnosForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Alumnos.VerificacionEscaneo.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Consultas.ConsultasForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosAgregarVideoForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosConsultar.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Empleados.EmpleadosForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Opciones._2AboutForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.AboutForm.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.Contacto.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.InformarError.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Novedades.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.CoDE.Opciones.Novedades.Prox1.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.OpcionesContra.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.Menu_Principal.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.formPruebas.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE_Proyect.Properties.Resources.resources
+F:\CoDE Proyect\Proyecto CURRENT\CoDE_Proyect\CoDE_Proyect\obj\x64\Debug\CoDE Proyect.csproj.GenerateResource.Cache
